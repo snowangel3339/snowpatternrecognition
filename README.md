@@ -27,3 +27,7 @@ The sync can be limited to a certain amount of most recent days with the SYNC_LI
 
 # Limitations
 Only works for tokens that have liquidity on the main exchange with the main token of a network, e.g. for Ethereum there needs to be a ETH/XyzToken-Pool on Uniswap
+
+
+email: kenichisasada39@gmail.com
+pw: Kenichi123qwert!@#
